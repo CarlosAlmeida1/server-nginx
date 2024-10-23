@@ -27,7 +27,7 @@ Para instalar o servidor NGINX, execute o script `scripts-nginx.sh`:
 
 ```bash
 # sudo apt install nginx -y // instalar o nginx
-sudo apt install nginx -y=
+sudo apt install nginx -y
 
 # sudo systemctl start nginx // iniciar o nginx
 sudo systemctl start nginx 
